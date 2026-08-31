@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Mst Kamrun Nahar Jui,i am a student of lab university of applied science.
+My name is Mst Kamrun Nahar Jui,I am a student of Lab university of applied science.
 
 **jui26s/Jui26s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
